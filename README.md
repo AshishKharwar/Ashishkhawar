@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ashishkhawar
+- 👋 Hi, I’m @Ashishkharwar
 - 👀 I’m interested in coding 
 - 🌱 I’m currently learning computer engineering from Ambedkar DSEU shakarpur campus 1
 
